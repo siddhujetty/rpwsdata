@@ -1,0 +1,5602 @@
+
+<response>
+	<version>0.1</version>
+	<termsofService>http://www.wunderground.com/weather/api/d/terms.html</termsofService>
+	<features>
+		<feature>history</feature>
+	</features>
+  <history>
+		<date>
+		<pretty>January  1, 2017</pretty>
+			<year>2017</year>
+			<mon>01</mon>
+			<mday>01</mday>
+			<hour>00</hour>
+			<min>00</min>
+			<tzname>America/Los_Angeles</tzname>
+		</date>
+		<utcdate>
+			<pretty>January  1, 2017</pretty>
+			<year>2017</year>
+			<mon>01</mon>
+			<mday>01</mday>
+			<hour>08</hour>
+			<min>00</min>
+			<tzname>UTC</tzname>
+		</utcdate>
+		<observations>
+			
+				<observation> 
+					<date>
+						<pretty>12:06 AM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>00</hour>
+						<min>06</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>8:06 AM GMT on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>08</hour>
+						<min>06</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>4.9</tempm>
+						<tempi>40.9</tempi>
+					
+						<dewptm>3.9</dewptm>
+						<dewpti>39.0</dewpti>
+					<hum>92</hum>
+					
+						<wspdm>0.0</wspdm>
+						<wspdi>0.0</wspdi>
+					
+						<wgustm>0.0</wgustm>
+						<wgusti>0.0</wgusti>
+					<wdird>59</wdird>
+					<wdire>ENE</wdire>
+					
+						<pressurem>1012.1</pressurem>
+						<pressurei>29.89</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>12:21 AM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>00</hour>
+						<min>21</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>8:21 AM GMT on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>08</hour>
+						<min>21</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>5.2</tempm>
+						<tempi>41.3</tempi>
+					
+						<dewptm>3.9</dewptm>
+						<dewpti>39.0</dewpti>
+					<hum>92</hum>
+					
+						<wspdm>0.0</wspdm>
+						<wspdi>0.0</wspdi>
+					
+						<wgustm>1.6</wgustm>
+						<wgusti>1.0</wgusti>
+					<wdird>59</wdird>
+					<wdire>ENE</wdire>
+					
+						<pressurem>1012.1</pressurem>
+						<pressurei>29.89</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>12:36 AM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>00</hour>
+						<min>36</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>8:36 AM GMT on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>08</hour>
+						<min>36</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>5.5</tempm>
+						<tempi>41.9</tempi>
+					
+						<dewptm>4.4</dewptm>
+						<dewpti>40.0</dewpti>
+					<hum>92</hum>
+					
+						<wspdm>0.0</wspdm>
+						<wspdi>0.0</wspdi>
+					
+						<wgustm>1.6</wgustm>
+						<wgusti>1.0</wgusti>
+					<wdird>213</wdird>
+					<wdire>SSW</wdire>
+					
+						<pressurem>1011.7</pressurem>
+						<pressurei>29.88</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>12:51 AM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>00</hour>
+						<min>51</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>8:51 AM GMT on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>08</hour>
+						<min>51</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>5.8</tempm>
+						<tempi>42.5</tempi>
+					
+						<dewptm>4.4</dewptm>
+						<dewpti>40.0</dewpti>
+					<hum>90</hum>
+					
+						<wspdm>0.0</wspdm>
+						<wspdi>0.0</wspdi>
+					
+						<wgustm>0.0</wgustm>
+						<wgusti>0.0</wgusti>
+					<wdird>213</wdird>
+					<wdire>SSW</wdire>
+					
+						<pressurem>1011.7</pressurem>
+						<pressurei>29.88</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>1:06 AM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>01</hour>
+						<min>06</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>9:06 AM GMT on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>09</hour>
+						<min>06</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>6.2</tempm>
+						<tempi>43.1</tempi>
+					
+						<dewptm>4.4</dewptm>
+						<dewpti>40.0</dewpti>
+					<hum>88</hum>
+					
+						<wspdm>0.0</wspdm>
+						<wspdi>0.0</wspdi>
+					
+						<wgustm>0.0</wgustm>
+						<wgusti>0.0</wgusti>
+					<wdird>213</wdird>
+					<wdire>SSW</wdire>
+					
+						<pressurem>1011.7</pressurem>
+						<pressurei>29.88</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>1:21 AM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>01</hour>
+						<min>21</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>9:21 AM GMT on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>09</hour>
+						<min>21</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>6.3</tempm>
+						<tempi>43.3</tempi>
+					
+						<dewptm>4.4</dewptm>
+						<dewpti>40.0</dewpti>
+					<hum>88</hum>
+					
+						<wspdm>0.0</wspdm>
+						<wspdi>0.0</wspdi>
+					
+						<wgustm>1.6</wgustm>
+						<wgusti>1.0</wgusti>
+					<wdird>213</wdird>
+					<wdire>SSW</wdire>
+					
+						<pressurem>1012.1</pressurem>
+						<pressurei>29.89</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>1:36 AM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>01</hour>
+						<min>36</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>9:36 AM GMT on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>09</hour>
+						<min>36</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>6.4</tempm>
+						<tempi>43.6</tempi>
+					
+						<dewptm>4.4</dewptm>
+						<dewpti>40.0</dewpti>
+					<hum>88</hum>
+					
+						<wspdm>0.0</wspdm>
+						<wspdi>0.0</wspdi>
+					
+						<wgustm>0.0</wgustm>
+						<wgusti>0.0</wgusti>
+					<wdird>213</wdird>
+					<wdire>SSW</wdire>
+					
+						<pressurem>1011.7</pressurem>
+						<pressurei>29.88</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>1:51 AM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>01</hour>
+						<min>51</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>9:51 AM GMT on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>09</hour>
+						<min>51</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>6.6</tempm>
+						<tempi>43.8</tempi>
+					
+						<dewptm>4.4</dewptm>
+						<dewpti>40.0</dewpti>
+					<hum>87</hum>
+					
+						<wspdm>0.0</wspdm>
+						<wspdi>0.0</wspdi>
+					
+						<wgustm>1.6</wgustm>
+						<wgusti>1.0</wgusti>
+					<wdird>213</wdird>
+					<wdire>SSW</wdire>
+					
+						<pressurem>1012.1</pressurem>
+						<pressurei>29.89</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>2:06 AM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>02</hour>
+						<min>06</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>10:06 AM GMT on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>10</hour>
+						<min>06</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>6.8</tempm>
+						<tempi>44.3</tempi>
+					
+						<dewptm>4.4</dewptm>
+						<dewpti>40.0</dewpti>
+					<hum>86</hum>
+					
+						<wspdm>0.0</wspdm>
+						<wspdi>0.0</wspdi>
+					
+						<wgustm>0.0</wgustm>
+						<wgusti>0.0</wgusti>
+					<wdird>213</wdird>
+					<wdire>SSW</wdire>
+					
+						<pressurem>1012.4</pressurem>
+						<pressurei>29.90</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>2:21 AM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>02</hour>
+						<min>21</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>10:21 AM GMT on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>10</hour>
+						<min>21</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>6.9</tempm>
+						<tempi>44.5</tempi>
+					
+						<dewptm>4.4</dewptm>
+						<dewpti>40.0</dewpti>
+					<hum>85</hum>
+					
+						<wspdm>0.0</wspdm>
+						<wspdi>0.0</wspdi>
+					
+						<wgustm>1.6</wgustm>
+						<wgusti>1.0</wgusti>
+					<wdird>213</wdird>
+					<wdire>SSW</wdire>
+					
+						<pressurem>1012.1</pressurem>
+						<pressurei>29.89</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>2:36 AM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>02</hour>
+						<min>36</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>10:36 AM GMT on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>10</hour>
+						<min>36</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>7.0</tempm>
+						<tempi>44.6</tempi>
+					
+						<dewptm>4.4</dewptm>
+						<dewpti>40.0</dewpti>
+					<hum>85</hum>
+					
+						<wspdm>0.0</wspdm>
+						<wspdi>0.0</wspdi>
+					
+						<wgustm>1.6</wgustm>
+						<wgusti>1.0</wgusti>
+					<wdird>209</wdird>
+					<wdire>SSW</wdire>
+					
+						<pressurem>1012.1</pressurem>
+						<pressurei>29.89</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>2:51 AM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>02</hour>
+						<min>51</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>10:51 AM GMT on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>10</hour>
+						<min>51</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>7.1</tempm>
+						<tempi>44.7</tempi>
+					
+						<dewptm>5.0</dewptm>
+						<dewpti>41.0</dewpti>
+					<hum>85</hum>
+					
+						<wspdm>0.0</wspdm>
+						<wspdi>0.0</wspdi>
+					
+						<wgustm>1.6</wgustm>
+						<wgusti>1.0</wgusti>
+					<wdird>205</wdird>
+					<wdire>SSW</wdire>
+					
+						<pressurem>1012.4</pressurem>
+						<pressurei>29.90</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>3:06 AM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>03</hour>
+						<min>06</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>11:06 AM GMT on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>11</hour>
+						<min>06</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>7.0</tempm>
+						<tempi>44.6</tempi>
+					
+						<dewptm>4.4</dewptm>
+						<dewpti>40.0</dewpti>
+					<hum>84</hum>
+					
+						<wspdm>0.0</wspdm>
+						<wspdi>0.0</wspdi>
+					
+						<wgustm>0.0</wgustm>
+						<wgusti>0.0</wgusti>
+					<wdird>205</wdird>
+					<wdire>SSW</wdire>
+					
+						<pressurem>1012.1</pressurem>
+						<pressurei>29.89</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>3:21 AM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>03</hour>
+						<min>21</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>11:21 AM GMT on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>11</hour>
+						<min>21</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>7.1</tempm>
+						<tempi>44.8</tempi>
+					
+						<dewptm>4.4</dewptm>
+						<dewpti>40.0</dewpti>
+					<hum>84</hum>
+					
+						<wspdm>0.0</wspdm>
+						<wspdi>0.0</wspdi>
+					
+						<wgustm>3.2</wgustm>
+						<wgusti>2.0</wgusti>
+					<wdird>208</wdird>
+					<wdire>SSW</wdire>
+					
+						<pressurem>1012.4</pressurem>
+						<pressurei>29.90</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>3:36 AM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>03</hour>
+						<min>36</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>11:36 AM GMT on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>11</hour>
+						<min>36</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>7.2</tempm>
+						<tempi>44.9</tempi>
+					
+						<dewptm>4.4</dewptm>
+						<dewpti>40.0</dewpti>
+					<hum>84</hum>
+					
+						<wspdm>0.0</wspdm>
+						<wspdi>0.0</wspdi>
+					
+						<wgustm>1.6</wgustm>
+						<wgusti>1.0</wgusti>
+					<wdird>213</wdird>
+					<wdire>SSW</wdire>
+					
+						<pressurem>1012.1</pressurem>
+						<pressurei>29.89</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>3:51 AM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>03</hour>
+						<min>51</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>11:51 AM GMT on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>11</hour>
+						<min>51</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>7.3</tempm>
+						<tempi>45.1</tempi>
+					
+						<dewptm>4.4</dewptm>
+						<dewpti>40.0</dewpti>
+					<hum>83</hum>
+					
+						<wspdm>3.2</wspdm>
+						<wspdi>2.0</wspdi>
+					
+						<wgustm>3.2</wgustm>
+						<wgusti>2.0</wgusti>
+					<wdird>229</wdird>
+					<wdire>SW</wdire>
+					
+						<pressurem>1011.7</pressurem>
+						<pressurei>29.88</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>4:06 AM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>04</hour>
+						<min>06</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>12:06 PM GMT on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>12</hour>
+						<min>06</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>7.3</tempm>
+						<tempi>45.1</tempi>
+					
+						<dewptm>4.4</dewptm>
+						<dewpti>40.0</dewpti>
+					<hum>83</hum>
+					
+						<wspdm>0.0</wspdm>
+						<wspdi>0.0</wspdi>
+					
+						<wgustm>3.2</wgustm>
+						<wgusti>2.0</wgusti>
+					<wdird>198</wdird>
+					<wdire>SSW</wdire>
+					
+						<pressurem>1011.4</pressurem>
+						<pressurei>29.87</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>4:21 AM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>04</hour>
+						<min>21</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>12:21 PM GMT on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>12</hour>
+						<min>21</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>7.6</tempm>
+						<tempi>45.6</tempi>
+					
+						<dewptm>5.0</dewptm>
+						<dewpti>41.0</dewpti>
+					<hum>83</hum>
+					
+						<wspdm>0.0</wspdm>
+						<wspdi>0.0</wspdi>
+					
+						<wgustm>3.2</wgustm>
+						<wgusti>2.0</wgusti>
+					<wdird>215</wdird>
+					<wdire>SW</wdire>
+					
+						<pressurem>1011.4</pressurem>
+						<pressurei>29.87</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>4:36 AM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>04</hour>
+						<min>36</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>12:36 PM GMT on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>12</hour>
+						<min>36</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>7.6</tempm>
+						<tempi>45.7</tempi>
+					
+						<dewptm>5.0</dewptm>
+						<dewpti>41.0</dewpti>
+					<hum>82</hum>
+					
+						<wspdm>3.2</wspdm>
+						<wspdi>2.0</wspdi>
+					
+						<wgustm>3.2</wgustm>
+						<wgusti>2.0</wgusti>
+					<wdird>205</wdird>
+					<wdire>SSW</wdire>
+					
+						<pressurem>1011.1</pressurem>
+						<pressurei>29.86</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>4:51 AM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>04</hour>
+						<min>51</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>12:51 PM GMT on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>12</hour>
+						<min>51</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>7.7</tempm>
+						<tempi>45.9</tempi>
+					
+						<dewptm>5.0</dewptm>
+						<dewpti>41.0</dewpti>
+					<hum>82</hum>
+					
+						<wspdm>1.6</wspdm>
+						<wspdi>1.0</wspdi>
+					
+						<wgustm>3.2</wgustm>
+						<wgusti>2.0</wgusti>
+					<wdird>223</wdird>
+					<wdire>SW</wdire>
+					
+						<pressurem>1010.7</pressurem>
+						<pressurei>29.85</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>5:06 AM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>05</hour>
+						<min>06</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>1:06 PM GMT on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>13</hour>
+						<min>06</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>7.8</tempm>
+						<tempi>46.1</tempi>
+					
+						<dewptm>5.0</dewptm>
+						<dewpti>41.0</dewpti>
+					<hum>82</hum>
+					
+						<wspdm>3.2</wspdm>
+						<wspdi>2.0</wspdi>
+					
+						<wgustm>6.4</wgustm>
+						<wgusti>4.0</wgusti>
+					<wdird>203</wdird>
+					<wdire>SSW</wdire>
+					
+						<pressurem>1010.7</pressurem>
+						<pressurei>29.85</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>5:21 AM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>05</hour>
+						<min>21</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>1:21 PM GMT on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>13</hour>
+						<min>21</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>7.7</tempm>
+						<tempi>45.9</tempi>
+					
+						<dewptm>4.4</dewptm>
+						<dewpti>40.0</dewpti>
+					<hum>81</hum>
+					
+						<wspdm>0.0</wspdm>
+						<wspdi>0.0</wspdi>
+					
+						<wgustm>4.8</wgustm>
+						<wgusti>3.0</wgusti>
+					<wdird>205</wdird>
+					<wdire>SSW</wdire>
+					
+						<pressurem>1011.1</pressurem>
+						<pressurei>29.86</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>5:36 AM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>05</hour>
+						<min>36</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>1:36 PM GMT on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>13</hour>
+						<min>36</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>7.6</tempm>
+						<tempi>45.6</tempi>
+					
+						<dewptm>4.4</dewptm>
+						<dewpti>40.0</dewpti>
+					<hum>82</hum>
+					
+						<wspdm>0.0</wspdm>
+						<wspdi>0.0</wspdi>
+					
+						<wgustm>4.8</wgustm>
+						<wgusti>3.0</wgusti>
+					<wdird>210</wdird>
+					<wdire>SSW</wdire>
+					
+						<pressurem>1011.1</pressurem>
+						<pressurei>29.86</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>5:51 AM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>05</hour>
+						<min>51</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>1:51 PM GMT on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>13</hour>
+						<min>51</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>7.5</tempm>
+						<tempi>45.5</tempi>
+					
+						<dewptm>5.0</dewptm>
+						<dewpti>41.0</dewpti>
+					<hum>83</hum>
+					
+						<wspdm>1.6</wspdm>
+						<wspdi>1.0</wspdi>
+					
+						<wgustm>1.6</wgustm>
+						<wgusti>1.0</wgusti>
+					<wdird>211</wdird>
+					<wdire>SSW</wdire>
+					
+						<pressurem>1010.7</pressurem>
+						<pressurei>29.85</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>6:06 AM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>06</hour>
+						<min>06</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>2:06 PM GMT on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>14</hour>
+						<min>06</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>7.5</tempm>
+						<tempi>45.5</tempi>
+					
+						<dewptm>5.0</dewptm>
+						<dewpti>41.0</dewpti>
+					<hum>83</hum>
+					
+						<wspdm>0.0</wspdm>
+						<wspdi>0.0</wspdi>
+					
+						<wgustm>3.2</wgustm>
+						<wgusti>2.0</wgusti>
+					<wdird>200</wdird>
+					<wdire>SSW</wdire>
+					
+						<pressurem>1011.1</pressurem>
+						<pressurei>29.86</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>6:21 AM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>06</hour>
+						<min>21</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>2:21 PM GMT on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>14</hour>
+						<min>21</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>7.5</tempm>
+						<tempi>45.5</tempi>
+					
+						<dewptm>5.0</dewptm>
+						<dewpti>41.0</dewpti>
+					<hum>84</hum>
+					
+						<wspdm>0.0</wspdm>
+						<wspdi>0.0</wspdi>
+					
+						<wgustm>4.8</wgustm>
+						<wgusti>3.0</wgusti>
+					<wdird>203</wdird>
+					<wdire>SSW</wdire>
+					
+						<pressurem>1011.1</pressurem>
+						<pressurei>29.86</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>6:36 AM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>06</hour>
+						<min>36</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>2:36 PM GMT on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>14</hour>
+						<min>36</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>7.5</tempm>
+						<tempi>45.5</tempi>
+					
+						<dewptm>5.0</dewptm>
+						<dewpti>41.0</dewpti>
+					<hum>83</hum>
+					
+						<wspdm>0.0</wspdm>
+						<wspdi>0.0</wspdi>
+					
+						<wgustm>3.2</wgustm>
+						<wgusti>2.0</wgusti>
+					<wdird>211</wdird>
+					<wdire>SSW</wdire>
+					
+						<pressurem>1011.1</pressurem>
+						<pressurei>29.86</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>6:51 AM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>06</hour>
+						<min>51</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>2:51 PM GMT on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>14</hour>
+						<min>51</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>7.6</tempm>
+						<tempi>45.6</tempi>
+					
+						<dewptm>5.0</dewptm>
+						<dewpti>41.0</dewpti>
+					<hum>83</hum>
+					
+						<wspdm>0.0</wspdm>
+						<wspdi>0.0</wspdi>
+					
+						<wgustm>3.2</wgustm>
+						<wgusti>2.0</wgusti>
+					<wdird>211</wdird>
+					<wdire>SSW</wdire>
+					
+						<pressurem>1011.1</pressurem>
+						<pressurei>29.86</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>7:06 AM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>07</hour>
+						<min>06</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>3:06 PM GMT on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>15</hour>
+						<min>06</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>7.7</tempm>
+						<tempi>45.9</tempi>
+					
+						<dewptm>5.0</dewptm>
+						<dewpti>41.0</dewpti>
+					<hum>83</hum>
+					
+						<wspdm>1.6</wspdm>
+						<wspdi>1.0</wspdi>
+					
+						<wgustm>6.4</wgustm>
+						<wgusti>4.0</wgusti>
+					<wdird>209</wdird>
+					<wdire>SSW</wdire>
+					
+						<pressurem>1011.4</pressurem>
+						<pressurei>29.87</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>7:21 AM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>07</hour>
+						<min>21</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>3:21 PM GMT on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>15</hour>
+						<min>21</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>7.8</tempm>
+						<tempi>46.0</tempi>
+					
+						<dewptm>5.0</dewptm>
+						<dewpti>41.0</dewpti>
+					<hum>82</hum>
+					
+						<wspdm>1.6</wspdm>
+						<wspdi>1.0</wspdi>
+					
+						<wgustm>3.2</wgustm>
+						<wgusti>2.0</wgusti>
+					<wdird>215</wdird>
+					<wdire>SW</wdire>
+					
+						<pressurem>1011.4</pressurem>
+						<pressurei>29.87</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>7:36 AM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>07</hour>
+						<min>36</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>3:36 PM GMT on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>15</hour>
+						<min>36</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>7.9</tempm>
+						<tempi>46.2</tempi>
+					
+						<dewptm>5.0</dewptm>
+						<dewpti>41.0</dewpti>
+					<hum>82</hum>
+					
+						<wspdm>0.0</wspdm>
+						<wspdi>0.0</wspdi>
+					
+						<wgustm>4.8</wgustm>
+						<wgusti>3.0</wgusti>
+					<wdird>213</wdird>
+					<wdire>SSW</wdire>
+					
+						<pressurem>1011.4</pressurem>
+						<pressurei>29.87</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>7:51 AM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>07</hour>
+						<min>51</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>3:51 PM GMT on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>15</hour>
+						<min>51</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>8.0</tempm>
+						<tempi>46.4</tempi>
+					
+						<dewptm>5.0</dewptm>
+						<dewpti>41.0</dewpti>
+					<hum>82</hum>
+					
+						<wspdm>1.6</wspdm>
+						<wspdi>1.0</wspdi>
+					
+						<wgustm>4.8</wgustm>
+						<wgusti>3.0</wgusti>
+					<wdird>207</wdird>
+					<wdire>SSW</wdire>
+					
+						<pressurem>1011.4</pressurem>
+						<pressurei>29.87</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>8:06 AM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>08</hour>
+						<min>06</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>4:06 PM GMT on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>16</hour>
+						<min>06</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>8.1</tempm>
+						<tempi>46.5</tempi>
+					
+						<dewptm>5.0</dewptm>
+						<dewpti>41.0</dewpti>
+					<hum>81</hum>
+					
+						<wspdm>0.0</wspdm>
+						<wspdi>0.0</wspdi>
+					
+						<wgustm>3.2</wgustm>
+						<wgusti>2.0</wgusti>
+					<wdird>206</wdird>
+					<wdire>SSW</wdire>
+					
+						<pressurem>1011.7</pressurem>
+						<pressurei>29.88</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>8:21 AM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>08</hour>
+						<min>21</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>4:21 PM GMT on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>16</hour>
+						<min>21</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>8.1</tempm>
+						<tempi>46.5</tempi>
+					
+						<dewptm>5.0</dewptm>
+						<dewpti>41.0</dewpti>
+					<hum>81</hum>
+					
+						<wspdm>0.0</wspdm>
+						<wspdi>0.0</wspdi>
+					
+						<wgustm>1.6</wgustm>
+						<wgusti>1.0</wgusti>
+					<wdird>207</wdird>
+					<wdire>SSW</wdire>
+					
+						<pressurem>1011.7</pressurem>
+						<pressurei>29.88</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>8:36 AM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>08</hour>
+						<min>36</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>4:36 PM GMT on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>16</hour>
+						<min>36</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>8.1</tempm>
+						<tempi>46.5</tempi>
+					
+						<dewptm>5.0</dewptm>
+						<dewpti>41.0</dewpti>
+					<hum>82</hum>
+					
+						<wspdm>0.0</wspdm>
+						<wspdi>0.0</wspdi>
+					
+						<wgustm>4.8</wgustm>
+						<wgusti>3.0</wgusti>
+					<wdird>215</wdird>
+					<wdire>SW</wdire>
+					
+						<pressurem>1011.7</pressurem>
+						<pressurei>29.88</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>8:51 AM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>08</hour>
+						<min>51</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>4:51 PM GMT on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>16</hour>
+						<min>51</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>8.2</tempm>
+						<tempi>46.8</tempi>
+					
+						<dewptm>5.6</dewptm>
+						<dewpti>42.0</dewpti>
+					<hum>82</hum>
+					
+						<wspdm>0.0</wspdm>
+						<wspdi>0.0</wspdi>
+					
+						<wgustm>3.2</wgustm>
+						<wgusti>2.0</wgusti>
+					<wdird>221</wdird>
+					<wdire>SW</wdire>
+					
+						<pressurem>1011.7</pressurem>
+						<pressurei>29.88</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>9:06 AM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>09</hour>
+						<min>06</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>5:06 PM GMT on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>17</hour>
+						<min>06</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>8.6</tempm>
+						<tempi>47.4</tempi>
+					
+						<dewptm>5.6</dewptm>
+						<dewpti>42.0</dewpti>
+					<hum>81</hum>
+					
+						<wspdm>1.6</wspdm>
+						<wspdi>1.0</wspdi>
+					
+						<wgustm>6.4</wgustm>
+						<wgusti>4.0</wgusti>
+					<wdird>215</wdird>
+					<wdire>SW</wdire>
+					
+						<pressurem>1011.7</pressurem>
+						<pressurei>29.88</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>9:21 AM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>09</hour>
+						<min>21</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>5:21 PM GMT on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>17</hour>
+						<min>21</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>9.0</tempm>
+						<tempi>48.2</tempi>
+					
+						<dewptm>5.6</dewptm>
+						<dewpti>42.0</dewpti>
+					<hum>78</hum>
+					
+						<wspdm>0.0</wspdm>
+						<wspdi>0.0</wspdi>
+					
+						<wgustm>8.0</wgustm>
+						<wgusti>5.0</wgusti>
+					<wdird>214</wdird>
+					<wdire>SW</wdire>
+					
+						<pressurem>1011.7</pressurem>
+						<pressurei>29.88</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>9:36 AM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>09</hour>
+						<min>36</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>5:36 PM GMT on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>17</hour>
+						<min>36</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>9.2</tempm>
+						<tempi>48.5</tempi>
+					
+						<dewptm>5.6</dewptm>
+						<dewpti>42.0</dewpti>
+					<hum>78</hum>
+					
+						<wspdm>1.6</wspdm>
+						<wspdi>1.0</wspdi>
+					
+						<wgustm>4.8</wgustm>
+						<wgusti>3.0</wgusti>
+					<wdird>210</wdird>
+					<wdire>SSW</wdire>
+					
+						<pressurem>1012.1</pressurem>
+						<pressurei>29.89</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>9:51 AM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>09</hour>
+						<min>51</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>5:51 PM GMT on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>17</hour>
+						<min>51</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>9.6</tempm>
+						<tempi>49.2</tempi>
+					
+						<dewptm>5.6</dewptm>
+						<dewpti>42.0</dewpti>
+					<hum>76</hum>
+					
+						<wspdm>4.8</wspdm>
+						<wspdi>3.0</wspdi>
+					
+						<wgustm>8.0</wgustm>
+						<wgusti>5.0</wgusti>
+					<wdird>232</wdird>
+					<wdire>SW</wdire>
+					
+						<pressurem>1011.7</pressurem>
+						<pressurei>29.88</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>10:06 AM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>10</hour>
+						<min>06</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>6:06 PM GMT on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>18</hour>
+						<min>06</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>10.4</tempm>
+						<tempi>50.8</tempi>
+					
+						<dewptm>5.0</dewptm>
+						<dewpti>41.0</dewpti>
+					<hum>70</hum>
+					
+						<wspdm>3.2</wspdm>
+						<wspdi>2.0</wspdi>
+					
+						<wgustm>14.5</wgustm>
+						<wgusti>9.0</wgusti>
+					<wdird>223</wdird>
+					<wdire>SW</wdire>
+					
+						<pressurem>1011.7</pressurem>
+						<pressurei>29.88</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>10:21 AM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>10</hour>
+						<min>21</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>6:21 PM GMT on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>18</hour>
+						<min>21</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>10.6</tempm>
+						<tempi>51.0</tempi>
+					
+						<dewptm>5.0</dewptm>
+						<dewpti>41.0</dewpti>
+					<hum>69</hum>
+					
+						<wspdm>3.2</wspdm>
+						<wspdi>2.0</wspdi>
+					
+						<wgustm>11.3</wgustm>
+						<wgusti>7.0</wgusti>
+					<wdird>229</wdird>
+					<wdire>SW</wdire>
+					
+						<pressurem>1011.7</pressurem>
+						<pressurei>29.88</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>10:36 AM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>10</hour>
+						<min>36</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>6:36 PM GMT on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>18</hour>
+						<min>36</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>10.4</tempm>
+						<tempi>50.7</tempi>
+					
+						<dewptm>4.4</dewptm>
+						<dewpti>40.0</dewpti>
+					<hum>67</hum>
+					
+						<wspdm>8.0</wspdm>
+						<wspdi>5.0</wspdi>
+					
+						<wgustm>11.3</wgustm>
+						<wgusti>7.0</wgusti>
+					<wdird>212</wdird>
+					<wdire>SSW</wdire>
+					
+						<pressurem>1011.7</pressurem>
+						<pressurei>29.88</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>10:51 AM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>10</hour>
+						<min>51</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>6:51 PM GMT on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>18</hour>
+						<min>51</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>10.8</tempm>
+						<tempi>51.5</tempi>
+					
+						<dewptm>5.0</dewptm>
+						<dewpti>41.0</dewpti>
+					<hum>67</hum>
+					
+						<wspdm>12.9</wspdm>
+						<wspdi>8.0</wspdi>
+					
+						<wgustm>14.5</wgustm>
+						<wgusti>9.0</wgusti>
+					<wdird>222</wdird>
+					<wdire>SW</wdire>
+					
+						<pressurem>1011.7</pressurem>
+						<pressurei>29.88</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>11:06 AM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>11</hour>
+						<min>06</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>7:06 PM GMT on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>19</hour>
+						<min>06</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>11.6</tempm>
+						<tempi>52.8</tempi>
+					
+						<dewptm>3.9</dewptm>
+						<dewpti>39.0</dewpti>
+					<hum>61</hum>
+					
+						<wspdm>4.8</wspdm>
+						<wspdi>3.0</wspdi>
+					
+						<wgustm>12.9</wgustm>
+						<wgusti>8.0</wgusti>
+					<wdird>236</wdird>
+					<wdire>SW</wdire>
+					
+						<pressurem>1011.7</pressurem>
+						<pressurei>29.88</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>11:21 AM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>11</hour>
+						<min>21</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>7:21 PM GMT on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>19</hour>
+						<min>21</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>12.2</tempm>
+						<tempi>54.0</tempi>
+					
+						<dewptm>5.6</dewptm>
+						<dewpti>42.0</dewpti>
+					<hum>63</hum>
+					
+						<wspdm>1.6</wspdm>
+						<wspdi>1.0</wspdi>
+					
+						<wgustm>9.7</wgustm>
+						<wgusti>6.0</wgusti>
+					<wdird>228</wdird>
+					<wdire>SW</wdire>
+					
+						<pressurem>1012.1</pressurem>
+						<pressurei>29.89</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>11:36 AM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>11</hour>
+						<min>36</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>7:36 PM GMT on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>19</hour>
+						<min>36</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>12.1</tempm>
+						<tempi>53.8</tempi>
+					
+						<dewptm>4.4</dewptm>
+						<dewpti>40.0</dewpti>
+					<hum>60</hum>
+					
+						<wspdm>3.2</wspdm>
+						<wspdi>2.0</wspdi>
+					
+						<wgustm>9.7</wgustm>
+						<wgusti>6.0</wgusti>
+					<wdird>221</wdird>
+					<wdire>SW</wdire>
+					
+						<pressurem>1011.7</pressurem>
+						<pressurei>29.88</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>11:51 AM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>11</hour>
+						<min>51</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>7:51 PM GMT on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>19</hour>
+						<min>51</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>12.0</tempm>
+						<tempi>53.6</tempi>
+					
+						<dewptm>5.0</dewptm>
+						<dewpti>41.0</dewpti>
+					<hum>62</hum>
+					
+						<wspdm>1.6</wspdm>
+						<wspdi>1.0</wspdi>
+					
+						<wgustm>12.9</wgustm>
+						<wgusti>8.0</wgusti>
+					<wdird>219</wdird>
+					<wdire>SW</wdire>
+					
+						<pressurem>1011.7</pressurem>
+						<pressurei>29.88</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>12:06 PM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>12</hour>
+						<min>06</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>8:06 PM GMT on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>20</hour>
+						<min>06</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>12.0</tempm>
+						<tempi>53.6</tempi>
+					
+						<dewptm>5.0</dewptm>
+						<dewpti>41.0</dewpti>
+					<hum>63</hum>
+					
+						<wspdm>4.8</wspdm>
+						<wspdi>3.0</wspdi>
+					
+						<wgustm>8.0</wgustm>
+						<wgusti>5.0</wgusti>
+					<wdird>215</wdird>
+					<wdire>SW</wdire>
+					
+						<pressurem>1011.7</pressurem>
+						<pressurei>29.88</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>12:21 PM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>12</hour>
+						<min>21</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>8:21 PM GMT on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>20</hour>
+						<min>21</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>12.2</tempm>
+						<tempi>54.0</tempi>
+					
+						<dewptm>5.6</dewptm>
+						<dewpti>42.0</dewpti>
+					<hum>63</hum>
+					
+						<wspdm>1.6</wspdm>
+						<wspdi>1.0</wspdi>
+					
+						<wgustm>9.7</wgustm>
+						<wgusti>6.0</wgusti>
+					<wdird>225</wdird>
+					<wdire>SW</wdire>
+					
+						<pressurem>1011.4</pressurem>
+						<pressurei>29.87</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>12:36 PM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>12</hour>
+						<min>36</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>8:36 PM GMT on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>20</hour>
+						<min>36</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>12.8</tempm>
+						<tempi>55.1</tempi>
+					
+						<dewptm>6.1</dewptm>
+						<dewpti>43.0</dewpti>
+					<hum>63</hum>
+					
+						<wspdm>4.8</wspdm>
+						<wspdi>3.0</wspdi>
+					
+						<wgustm>6.4</wgustm>
+						<wgusti>4.0</wgusti>
+					<wdird>224</wdird>
+					<wdire>SW</wdire>
+					
+						<pressurem>1011.1</pressurem>
+						<pressurei>29.86</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>12:51 PM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>12</hour>
+						<min>51</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>8:51 PM GMT on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>20</hour>
+						<min>51</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>12.9</tempm>
+						<tempi>55.3</tempi>
+					
+						<dewptm>6.1</dewptm>
+						<dewpti>43.0</dewpti>
+					<hum>63</hum>
+					
+						<wspdm>0.0</wspdm>
+						<wspdi>0.0</wspdi>
+					
+						<wgustm>4.8</wgustm>
+						<wgusti>3.0</wgusti>
+					<wdird>227</wdird>
+					<wdire>SW</wdire>
+					
+						<pressurem>1010.7</pressurem>
+						<pressurei>29.85</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>1:06 PM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>13</hour>
+						<min>06</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>9:06 PM GMT on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>21</hour>
+						<min>06</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>13.3</tempm>
+						<tempi>55.9</tempi>
+					
+						<dewptm>6.1</dewptm>
+						<dewpti>43.0</dewpti>
+					<hum>63</hum>
+					
+						<wspdm>0.0</wspdm>
+						<wspdi>0.0</wspdi>
+					
+						<wgustm>11.3</wgustm>
+						<wgusti>7.0</wgusti>
+					<wdird>210</wdird>
+					<wdire>SSW</wdire>
+					
+						<pressurem>1010.7</pressurem>
+						<pressurei>29.85</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>1:21 PM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>13</hour>
+						<min>21</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>9:21 PM GMT on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>21</hour>
+						<min>21</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>13.3</tempm>
+						<tempi>56.0</tempi>
+					
+						<dewptm>6.1</dewptm>
+						<dewpti>43.0</dewpti>
+					<hum>62</hum>
+					
+						<wspdm>6.4</wspdm>
+						<wspdi>4.0</wspdi>
+					
+						<wgustm>8.0</wgustm>
+						<wgusti>5.0</wgusti>
+					<wdird>206</wdird>
+					<wdire>SSW</wdire>
+					
+						<pressurem>1010.7</pressurem>
+						<pressurei>29.85</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>1:36 PM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>13</hour>
+						<min>36</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>9:36 PM GMT on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>21</hour>
+						<min>36</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>13.5</tempm>
+						<tempi>56.3</tempi>
+					
+						<dewptm>5.6</dewptm>
+						<dewpti>42.0</dewpti>
+					<hum>60</hum>
+					
+						<wspdm>4.8</wspdm>
+						<wspdi>3.0</wspdi>
+					
+						<wgustm>6.4</wgustm>
+						<wgusti>4.0</wgusti>
+					<wdird>254</wdird>
+					<wdire>WSW</wdire>
+					
+						<pressurem>1010.7</pressurem>
+						<pressurei>29.85</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>1:51 PM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>13</hour>
+						<min>51</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>9:51 PM GMT on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>21</hour>
+						<min>51</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>13.6</tempm>
+						<tempi>56.4</tempi>
+					
+						<dewptm>5.6</dewptm>
+						<dewpti>42.0</dewpti>
+					<hum>59</hum>
+					
+						<wspdm>0.0</wspdm>
+						<wspdi>0.0</wspdi>
+					
+						<wgustm>6.4</wgustm>
+						<wgusti>4.0</wgusti>
+					<wdird>239</wdird>
+					<wdire>WSW</wdire>
+					
+						<pressurem>1010.4</pressurem>
+						<pressurei>29.84</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>2:07 PM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>14</hour>
+						<min>07</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>10:07 PM GMT on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>22</hour>
+						<min>07</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>13.7</tempm>
+						<tempi>56.7</tempi>
+					
+						<dewptm>5.0</dewptm>
+						<dewpti>41.0</dewpti>
+					<hum>57</hum>
+					
+						<wspdm>1.6</wspdm>
+						<wspdi>1.0</wspdi>
+					
+						<wgustm>6.4</wgustm>
+						<wgusti>4.0</wgusti>
+					<wdird>226</wdird>
+					<wdire>SW</wdire>
+					
+						<pressurem>1010.4</pressurem>
+						<pressurei>29.84</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>2:21 PM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>14</hour>
+						<min>21</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>10:21 PM GMT on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>22</hour>
+						<min>21</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>13.1</tempm>
+						<tempi>55.6</tempi>
+					
+						<dewptm>5.6</dewptm>
+						<dewpti>42.0</dewpti>
+					<hum>61</hum>
+					
+						<wspdm>1.6</wspdm>
+						<wspdi>1.0</wspdi>
+					
+						<wgustm>8.0</wgustm>
+						<wgusti>5.0</wgusti>
+					<wdird>228</wdird>
+					<wdire>SW</wdire>
+					
+						<pressurem>1010.7</pressurem>
+						<pressurei>29.85</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>2:36 PM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>14</hour>
+						<min>36</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>10:36 PM GMT on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>22</hour>
+						<min>36</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>13.0</tempm>
+						<tempi>55.4</tempi>
+					
+						<dewptm>5.6</dewptm>
+						<dewpti>42.0</dewpti>
+					<hum>62</hum>
+					
+						<wspdm>0.0</wspdm>
+						<wspdi>0.0</wspdi>
+					
+						<wgustm>4.8</wgustm>
+						<wgusti>3.0</wgusti>
+					<wdird>182</wdird>
+					<wdire>South</wdire>
+					
+						<pressurem>1010.4</pressurem>
+						<pressurei>29.84</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>2:51 PM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>14</hour>
+						<min>51</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>10:51 PM GMT on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>22</hour>
+						<min>51</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>12.9</tempm>
+						<tempi>55.3</tempi>
+					
+						<dewptm>4.4</dewptm>
+						<dewpti>40.0</dewpti>
+					<hum>57</hum>
+					
+						<wspdm>4.8</wspdm>
+						<wspdi>3.0</wspdi>
+					
+						<wgustm>8.0</wgustm>
+						<wgusti>5.0</wgusti>
+					<wdird>209</wdird>
+					<wdire>SSW</wdire>
+					
+						<pressurem>1010.4</pressurem>
+						<pressurei>29.84</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>3:07 PM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>15</hour>
+						<min>07</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>11:07 PM GMT on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>23</hour>
+						<min>07</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>12.5</tempm>
+						<tempi>54.5</tempi>
+					
+						<dewptm>4.4</dewptm>
+						<dewpti>40.0</dewpti>
+					<hum>59</hum>
+					
+						<wspdm>3.2</wspdm>
+						<wspdi>2.0</wspdi>
+					
+						<wgustm>8.0</wgustm>
+						<wgusti>5.0</wgusti>
+					<wdird>215</wdird>
+					<wdire>SW</wdire>
+					
+						<pressurem>1010.4</pressurem>
+						<pressurei>29.84</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>3:22 PM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>15</hour>
+						<min>22</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>11:22 PM GMT on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>23</hour>
+						<min>22</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>12.3</tempm>
+						<tempi>54.1</tempi>
+					
+						<dewptm>5.6</dewptm>
+						<dewpti>42.0</dewpti>
+					<hum>63</hum>
+					
+						<wspdm>0.0</wspdm>
+						<wspdi>0.0</wspdi>
+					
+						<wgustm>9.7</wgustm>
+						<wgusti>6.0</wgusti>
+					<wdird>217</wdird>
+					<wdire>SW</wdire>
+					
+						<pressurem>1010.4</pressurem>
+						<pressurei>29.84</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>3:37 PM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>15</hour>
+						<min>37</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>11:37 PM GMT on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>23</hour>
+						<min>37</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>12.3</tempm>
+						<tempi>54.2</tempi>
+					
+						<dewptm>5.0</dewptm>
+						<dewpti>41.0</dewpti>
+					<hum>61</hum>
+					
+						<wspdm>4.8</wspdm>
+						<wspdi>3.0</wspdi>
+					
+						<wgustm>9.7</wgustm>
+						<wgusti>6.0</wgusti>
+					<wdird>194</wdird>
+					<wdire>SSW</wdire>
+					
+						<pressurem>1010.0</pressurem>
+						<pressurei>29.83</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>3:52 PM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>15</hour>
+						<min>52</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>11:52 PM GMT on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>23</hour>
+						<min>52</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>11.9</tempm>
+						<tempi>53.4</tempi>
+					
+						<dewptm>5.0</dewptm>
+						<dewpti>41.0</dewpti>
+					<hum>63</hum>
+					
+						<wspdm>0.0</wspdm>
+						<wspdi>0.0</wspdi>
+					
+						<wgustm>9.7</wgustm>
+						<wgusti>6.0</wgusti>
+					<wdird>227</wdird>
+					<wdire>SW</wdire>
+					
+						<pressurem>1010.4</pressurem>
+						<pressurei>29.84</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>4:07 PM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>16</hour>
+						<min>07</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>12:07 AM GMT on January 02, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>02</mday>
+						<hour>00</hour>
+						<min>07</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>11.7</tempm>
+						<tempi>53.0</tempi>
+					
+						<dewptm>5.0</dewptm>
+						<dewpti>41.0</dewpti>
+					<hum>63</hum>
+					
+						<wspdm>3.2</wspdm>
+						<wspdi>2.0</wspdi>
+					
+						<wgustm>6.4</wgustm>
+						<wgusti>4.0</wgusti>
+					<wdird>236</wdird>
+					<wdire>SW</wdire>
+					
+						<pressurem>1010.4</pressurem>
+						<pressurei>29.84</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>4:22 PM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>16</hour>
+						<min>22</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>12:22 AM GMT on January 02, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>02</mday>
+						<hour>00</hour>
+						<min>22</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>10.7</tempm>
+						<tempi>51.3</tempi>
+					
+						<dewptm>5.0</dewptm>
+						<dewpti>41.0</dewpti>
+					<hum>67</hum>
+					
+						<wspdm>0.0</wspdm>
+						<wspdi>0.0</wspdi>
+					
+						<wgustm>8.0</wgustm>
+						<wgusti>5.0</wgusti>
+					<wdird>244</wdird>
+					<wdire>WSW</wdire>
+					
+						<pressurem>1010.4</pressurem>
+						<pressurei>29.84</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>4:37 PM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>16</hour>
+						<min>37</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>12:37 AM GMT on January 02, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>02</mday>
+						<hour>00</hour>
+						<min>37</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>9.9</tempm>
+						<tempi>49.8</tempi>
+					
+						<dewptm>5.0</dewptm>
+						<dewpti>41.0</dewpti>
+					<hum>71</hum>
+					
+						<wspdm>3.2</wspdm>
+						<wspdi>2.0</wspdi>
+					
+						<wgustm>9.7</wgustm>
+						<wgusti>6.0</wgusti>
+					<wdird>221</wdird>
+					<wdire>SW</wdire>
+					
+						<pressurem>1010.7</pressurem>
+						<pressurei>29.85</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>4:52 PM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>16</hour>
+						<min>52</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>12:52 AM GMT on January 02, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>02</mday>
+						<hour>00</hour>
+						<min>52</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>9.3</tempm>
+						<tempi>48.7</tempi>
+					
+						<dewptm>4.4</dewptm>
+						<dewpti>40.0</dewpti>
+					<hum>72</hum>
+					
+						<wspdm>4.8</wspdm>
+						<wspdi>3.0</wspdi>
+					
+						<wgustm>9.7</wgustm>
+						<wgusti>6.0</wgusti>
+					<wdird>234</wdird>
+					<wdire>SW</wdire>
+					
+						<pressurem>1010.4</pressurem>
+						<pressurei>29.84</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>5:07 PM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>17</hour>
+						<min>07</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>1:07 AM GMT on January 02, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>02</mday>
+						<hour>01</hour>
+						<min>07</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>8.7</tempm>
+						<tempi>47.7</tempi>
+					
+						<dewptm>3.9</dewptm>
+						<dewpti>39.0</dewpti>
+					<hum>71</hum>
+					
+						<wspdm>0.0</wspdm>
+						<wspdi>0.0</wspdi>
+					
+						<wgustm>6.4</wgustm>
+						<wgusti>4.0</wgusti>
+					<wdird>215</wdird>
+					<wdire>SW</wdire>
+					
+						<pressurem>1010.4</pressurem>
+						<pressurei>29.84</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>5:22 PM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>17</hour>
+						<min>22</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>1:22 AM GMT on January 02, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>02</mday>
+						<hour>01</hour>
+						<min>22</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>8.5</tempm>
+						<tempi>47.3</tempi>
+					
+						<dewptm>3.9</dewptm>
+						<dewpti>39.0</dewpti>
+					<hum>72</hum>
+					
+						<wspdm>3.2</wspdm>
+						<wspdi>2.0</wspdi>
+					
+						<wgustm>8.0</wgustm>
+						<wgusti>5.0</wgusti>
+					<wdird>223</wdird>
+					<wdire>SW</wdire>
+					
+						<pressurem>1010.4</pressurem>
+						<pressurei>29.84</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>5:37 PM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>17</hour>
+						<min>37</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>1:37 AM GMT on January 02, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>02</mday>
+						<hour>01</hour>
+						<min>37</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>8.2</tempm>
+						<tempi>46.7</tempi>
+					
+						<dewptm>3.3</dewptm>
+						<dewpti>38.0</dewpti>
+					<hum>73</hum>
+					
+						<wspdm>0.0</wspdm>
+						<wspdi>0.0</wspdi>
+					
+						<wgustm>4.8</wgustm>
+						<wgusti>3.0</wgusti>
+					<wdird>206</wdird>
+					<wdire>SSW</wdire>
+					
+						<pressurem>1010.7</pressurem>
+						<pressurei>29.85</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>5:52 PM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>17</hour>
+						<min>52</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>1:52 AM GMT on January 02, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>02</mday>
+						<hour>01</hour>
+						<min>52</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>8.2</tempm>
+						<tempi>46.7</tempi>
+					
+						<dewptm>3.3</dewptm>
+						<dewpti>38.0</dewpti>
+					<hum>72</hum>
+					
+						<wspdm>1.6</wspdm>
+						<wspdi>1.0</wspdi>
+					
+						<wgustm>6.4</wgustm>
+						<wgusti>4.0</wgusti>
+					<wdird>209</wdird>
+					<wdire>SSW</wdire>
+					
+						<pressurem>1010.7</pressurem>
+						<pressurei>29.85</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>6:07 PM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>18</hour>
+						<min>07</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>2:07 AM GMT on January 02, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>02</mday>
+						<hour>02</hour>
+						<min>07</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>7.9</tempm>
+						<tempi>46.2</tempi>
+					
+						<dewptm>3.3</dewptm>
+						<dewpti>38.0</dewpti>
+					<hum>74</hum>
+					
+						<wspdm>1.6</wspdm>
+						<wspdi>1.0</wspdi>
+					
+						<wgustm>3.2</wgustm>
+						<wgusti>2.0</wgusti>
+					<wdird>213</wdird>
+					<wdire>SSW</wdire>
+					
+						<pressurem>1010.7</pressurem>
+						<pressurei>29.85</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>6:22 PM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>18</hour>
+						<min>22</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>2:22 AM GMT on January 02, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>02</mday>
+						<hour>02</hour>
+						<min>22</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>7.9</tempm>
+						<tempi>46.3</tempi>
+					
+						<dewptm>3.9</dewptm>
+						<dewpti>39.0</dewpti>
+					<hum>76</hum>
+					
+						<wspdm>0.0</wspdm>
+						<wspdi>0.0</wspdi>
+					
+						<wgustm>3.2</wgustm>
+						<wgusti>2.0</wgusti>
+					<wdird>205</wdird>
+					<wdire>SSW</wdire>
+					
+						<pressurem>1010.7</pressurem>
+						<pressurei>29.85</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>6:37 PM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>18</hour>
+						<min>37</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>2:37 AM GMT on January 02, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>02</mday>
+						<hour>02</hour>
+						<min>37</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>7.7</tempm>
+						<tempi>45.9</tempi>
+					
+						<dewptm>3.9</dewptm>
+						<dewpti>39.0</dewpti>
+					<hum>77</hum>
+					
+						<wspdm>0.0</wspdm>
+						<wspdi>0.0</wspdi>
+					
+						<wgustm>1.6</wgustm>
+						<wgusti>1.0</wgusti>
+					<wdird>221</wdird>
+					<wdire>SW</wdire>
+					
+						<pressurem>1011.1</pressurem>
+						<pressurei>29.86</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>6:52 PM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>18</hour>
+						<min>52</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>2:52 AM GMT on January 02, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>02</mday>
+						<hour>02</hour>
+						<min>52</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>7.2</tempm>
+						<tempi>45.0</tempi>
+					
+						<dewptm>3.9</dewptm>
+						<dewpti>39.0</dewpti>
+					<hum>79</hum>
+					
+						<wspdm>0.0</wspdm>
+						<wspdi>0.0</wspdi>
+					
+						<wgustm>1.6</wgustm>
+						<wgusti>1.0</wgusti>
+					<wdird>211</wdird>
+					<wdire>SSW</wdire>
+					
+						<pressurem>1011.1</pressurem>
+						<pressurei>29.86</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>7:07 PM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>19</hour>
+						<min>07</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>3:07 AM GMT on January 02, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>02</mday>
+						<hour>03</hour>
+						<min>07</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>7.3</tempm>
+						<tempi>45.1</tempi>
+					
+						<dewptm>3.9</dewptm>
+						<dewpti>39.0</dewpti>
+					<hum>79</hum>
+					
+						<wspdm>0.0</wspdm>
+						<wspdi>0.0</wspdi>
+					
+						<wgustm>1.6</wgustm>
+						<wgusti>1.0</wgusti>
+					<wdird>205</wdird>
+					<wdire>SSW</wdire>
+					
+						<pressurem>1011.4</pressurem>
+						<pressurei>29.87</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>7:22 PM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>19</hour>
+						<min>22</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>3:22 AM GMT on January 02, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>02</mday>
+						<hour>03</hour>
+						<min>22</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>7.5</tempm>
+						<tempi>45.5</tempi>
+					
+						<dewptm>3.9</dewptm>
+						<dewpti>39.0</dewpti>
+					<hum>78</hum>
+					
+						<wspdm>0.0</wspdm>
+						<wspdi>0.0</wspdi>
+					
+						<wgustm>1.6</wgustm>
+						<wgusti>1.0</wgusti>
+					<wdird>209</wdird>
+					<wdire>SSW</wdire>
+					
+						<pressurem>1011.4</pressurem>
+						<pressurei>29.87</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>7:37 PM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>19</hour>
+						<min>37</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>3:37 AM GMT on January 02, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>02</mday>
+						<hour>03</hour>
+						<min>37</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>7.4</tempm>
+						<tempi>45.4</tempi>
+					
+						<dewptm>3.9</dewptm>
+						<dewpti>39.0</dewpti>
+					<hum>79</hum>
+					
+						<wspdm>0.0</wspdm>
+						<wspdi>0.0</wspdi>
+					
+						<wgustm>1.6</wgustm>
+						<wgusti>1.0</wgusti>
+					<wdird>209</wdird>
+					<wdire>SSW</wdire>
+					
+						<pressurem>1011.7</pressurem>
+						<pressurei>29.88</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>7:52 PM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>19</hour>
+						<min>52</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>3:52 AM GMT on January 02, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>02</mday>
+						<hour>03</hour>
+						<min>52</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>7.6</tempm>
+						<tempi>45.7</tempi>
+					
+						<dewptm>4.4</dewptm>
+						<dewpti>40.0</dewpti>
+					<hum>79</hum>
+					
+						<wspdm>0.0</wspdm>
+						<wspdi>0.0</wspdi>
+					
+						<wgustm>1.6</wgustm>
+						<wgusti>1.0</wgusti>
+					<wdird>209</wdird>
+					<wdire>SSW</wdire>
+					
+						<pressurem>1011.7</pressurem>
+						<pressurei>29.88</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>8:07 PM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>20</hour>
+						<min>07</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>4:07 AM GMT on January 02, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>02</mday>
+						<hour>04</hour>
+						<min>07</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>7.9</tempm>
+						<tempi>46.2</tempi>
+					
+						<dewptm>5.0</dewptm>
+						<dewpti>41.0</dewpti>
+					<hum>83</hum>
+					
+						<wspdm>1.6</wspdm>
+						<wspdi>1.0</wspdi>
+					
+						<wgustm>6.4</wgustm>
+						<wgusti>4.0</wgusti>
+					<wdird>211</wdird>
+					<wdire>SSW</wdire>
+					
+						<pressurem>1012.1</pressurem>
+						<pressurei>29.89</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.0</precip_totalm>
+						<precip_totali>0.00</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>8:22 PM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>20</hour>
+						<min>22</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>4:22 AM GMT on January 02, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>02</mday>
+						<hour>04</hour>
+						<min>22</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>7.5</tempm>
+						<tempi>45.5</tempi>
+					
+						<dewptm>5.6</dewptm>
+						<dewpti>42.0</dewpti>
+					<hum>86</hum>
+					
+						<wspdm>0.0</wspdm>
+						<wspdi>0.0</wspdi>
+					
+						<wgustm>4.8</wgustm>
+						<wgusti>3.0</wgusti>
+					<wdird>222</wdird>
+					<wdire>SW</wdire>
+					
+						<pressurem>1012.1</pressurem>
+						<pressurei>29.89</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.3</precip_ratem>
+						<precip_ratei>0.01</precip_ratei>
+					
+						<precip_totalm>0.3</precip_totalm>
+						<precip_totali>0.01</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>8:37 PM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>20</hour>
+						<min>37</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>4:37 AM GMT on January 02, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>02</mday>
+						<hour>04</hour>
+						<min>37</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>7.4</tempm>
+						<tempi>45.3</tempi>
+					
+						<dewptm>5.0</dewptm>
+						<dewpti>41.0</dewpti>
+					<hum>86</hum>
+					
+						<wspdm>0.0</wspdm>
+						<wspdi>0.0</wspdi>
+					
+						<wgustm>1.6</wgustm>
+						<wgusti>1.0</wgusti>
+					<wdird>203</wdird>
+					<wdire>SSW</wdire>
+					
+						<pressurem>1012.4</pressurem>
+						<pressurei>29.90</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.3</precip_ratem>
+						<precip_ratei>0.01</precip_ratei>
+					
+						<precip_totalm>0.3</precip_totalm>
+						<precip_totali>0.01</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>8:52 PM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>20</hour>
+						<min>52</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>4:52 AM GMT on January 02, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>02</mday>
+						<hour>04</hour>
+						<min>52</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>7.3</tempm>
+						<tempi>45.2</tempi>
+					
+						<dewptm>5.6</dewptm>
+						<dewpti>42.0</dewpti>
+					<hum>87</hum>
+					
+						<wspdm>0.0</wspdm>
+						<wspdi>0.0</wspdi>
+					
+						<wgustm>1.6</wgustm>
+						<wgusti>1.0</wgusti>
+					<wdird>206</wdird>
+					<wdire>SSW</wdire>
+					
+						<pressurem>1012.8</pressurem>
+						<pressurei>29.91</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.3</precip_ratem>
+						<precip_ratei>0.01</precip_ratei>
+					
+						<precip_totalm>0.3</precip_totalm>
+						<precip_totali>0.01</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>9:07 PM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>21</hour>
+						<min>07</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>5:07 AM GMT on January 02, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>02</mday>
+						<hour>05</hour>
+						<min>07</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>7.5</tempm>
+						<tempi>45.5</tempi>
+					
+						<dewptm>5.6</dewptm>
+						<dewpti>42.0</dewpti>
+					<hum>86</hum>
+					
+						<wspdm>0.0</wspdm>
+						<wspdi>0.0</wspdi>
+					
+						<wgustm>1.6</wgustm>
+						<wgusti>1.0</wgusti>
+					<wdird>213</wdird>
+					<wdire>SSW</wdire>
+					
+						<pressurem>1012.8</pressurem>
+						<pressurei>29.91</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.3</precip_ratem>
+						<precip_ratei>0.01</precip_ratei>
+					
+						<precip_totalm>0.3</precip_totalm>
+						<precip_totali>0.01</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>9:22 PM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>21</hour>
+						<min>22</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>5:22 AM GMT on January 02, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>02</mday>
+						<hour>05</hour>
+						<min>22</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>7.6</tempm>
+						<tempi>45.7</tempi>
+					
+						<dewptm>5.6</dewptm>
+						<dewpti>42.0</dewpti>
+					<hum>86</hum>
+					
+						<wspdm>0.0</wspdm>
+						<wspdi>0.0</wspdi>
+					
+						<wgustm>3.2</wgustm>
+						<wgusti>2.0</wgusti>
+					<wdird>214</wdird>
+					<wdire>SW</wdire>
+					
+						<pressurem>1012.8</pressurem>
+						<pressurei>29.91</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.3</precip_totalm>
+						<precip_totali>0.01</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>9:37 PM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>21</hour>
+						<min>37</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>5:37 AM GMT on January 02, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>02</mday>
+						<hour>05</hour>
+						<min>37</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>7.4</tempm>
+						<tempi>45.4</tempi>
+					
+						<dewptm>5.6</dewptm>
+						<dewpti>42.0</dewpti>
+					<hum>88</hum>
+					
+						<wspdm>0.0</wspdm>
+						<wspdi>0.0</wspdi>
+					
+						<wgustm>1.6</wgustm>
+						<wgusti>1.0</wgusti>
+					<wdird>211</wdird>
+					<wdire>SSW</wdire>
+					
+						<pressurem>1012.8</pressurem>
+						<pressurei>29.91</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.3</precip_totalm>
+						<precip_totali>0.01</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>9:52 PM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>21</hour>
+						<min>52</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>5:52 AM GMT on January 02, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>02</mday>
+						<hour>05</hour>
+						<min>52</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>7.3</tempm>
+						<tempi>45.1</tempi>
+					
+						<dewptm>5.6</dewptm>
+						<dewpti>42.0</dewpti>
+					<hum>89</hum>
+					
+						<wspdm>0.0</wspdm>
+						<wspdi>0.0</wspdi>
+					
+						<wgustm>1.6</wgustm>
+						<wgusti>1.0</wgusti>
+					<wdird>211</wdird>
+					<wdire>SSW</wdire>
+					
+						<pressurem>1012.8</pressurem>
+						<pressurei>29.91</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.3</precip_totalm>
+						<precip_totali>0.01</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>10:07 PM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>22</hour>
+						<min>07</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>6:07 AM GMT on January 02, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>02</mday>
+						<hour>06</hour>
+						<min>07</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>7.1</tempm>
+						<tempi>44.7</tempi>
+					
+						<dewptm>5.6</dewptm>
+						<dewpti>42.0</dewpti>
+					<hum>89</hum>
+					
+						<wspdm>0.0</wspdm>
+						<wspdi>0.0</wspdi>
+					
+						<wgustm>0.0</wgustm>
+						<wgusti>0.0</wgusti>
+					<wdird>211</wdird>
+					<wdire>SSW</wdire>
+					
+						<pressurem>1012.8</pressurem>
+						<pressurei>29.91</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.3</precip_totalm>
+						<precip_totali>0.01</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>10:22 PM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>22</hour>
+						<min>22</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>6:22 AM GMT on January 02, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>02</mday>
+						<hour>06</hour>
+						<min>22</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>7.1</tempm>
+						<tempi>44.7</tempi>
+					
+						<dewptm>5.6</dewptm>
+						<dewpti>42.0</dewpti>
+					<hum>91</hum>
+					
+						<wspdm>0.0</wspdm>
+						<wspdi>0.0</wspdi>
+					
+						<wgustm>0.0</wgustm>
+						<wgusti>0.0</wgusti>
+					<wdird>211</wdird>
+					<wdire>SSW</wdire>
+					
+						<pressurem>1013.1</pressurem>
+						<pressurei>29.92</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.3</precip_totalm>
+						<precip_totali>0.01</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>10:38 PM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>22</hour>
+						<min>38</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>6:38 AM GMT on January 02, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>02</mday>
+						<hour>06</hour>
+						<min>38</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>7.2</tempm>
+						<tempi>44.9</tempi>
+					
+						<dewptm>6.1</dewptm>
+						<dewpti>43.0</dewpti>
+					<hum>91</hum>
+					
+						<wspdm>0.0</wspdm>
+						<wspdi>0.0</wspdi>
+					
+						<wgustm>0.0</wgustm>
+						<wgusti>0.0</wgusti>
+					<wdird>211</wdird>
+					<wdire>SSW</wdire>
+					
+						<pressurem>1012.8</pressurem>
+						<pressurei>29.91</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.3</precip_totalm>
+						<precip_totali>0.01</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>10:52 PM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>22</hour>
+						<min>52</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>6:52 AM GMT on January 02, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>02</mday>
+						<hour>06</hour>
+						<min>52</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>7.1</tempm>
+						<tempi>44.8</tempi>
+					
+						<dewptm>5.6</dewptm>
+						<dewpti>42.0</dewpti>
+					<hum>91</hum>
+					
+						<wspdm>0.0</wspdm>
+						<wspdi>0.0</wspdi>
+					
+						<wgustm>1.6</wgustm>
+						<wgusti>1.0</wgusti>
+					<wdird>108</wdird>
+					<wdire>ESE</wdire>
+					
+						<pressurem>1012.8</pressurem>
+						<pressurei>29.91</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.3</precip_totalm>
+						<precip_totali>0.01</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>11:07 PM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>23</hour>
+						<min>07</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>7:07 AM GMT on January 02, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>02</mday>
+						<hour>07</hour>
+						<min>07</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>7.0</tempm>
+						<tempi>44.6</tempi>
+					
+						<dewptm>5.6</dewptm>
+						<dewpti>42.0</dewpti>
+					<hum>91</hum>
+					
+						<wspdm>0.0</wspdm>
+						<wspdi>0.0</wspdi>
+					
+						<wgustm>0.0</wgustm>
+						<wgusti>0.0</wgusti>
+					<wdird>108</wdird>
+					<wdire>ESE</wdire>
+					
+						<pressurem>1012.8</pressurem>
+						<pressurei>29.91</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.3</precip_totalm>
+						<precip_totali>0.01</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>11:22 PM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>23</hour>
+						<min>22</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>7:22 AM GMT on January 02, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>02</mday>
+						<hour>07</hour>
+						<min>22</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>7.1</tempm>
+						<tempi>44.7</tempi>
+					
+						<dewptm>5.6</dewptm>
+						<dewpti>42.0</dewpti>
+					<hum>91</hum>
+					
+						<wspdm>0.0</wspdm>
+						<wspdi>0.0</wspdi>
+					
+						<wgustm>1.6</wgustm>
+						<wgusti>1.0</wgusti>
+					<wdird>207</wdird>
+					<wdire>SSW</wdire>
+					
+						<pressurem>1012.8</pressurem>
+						<pressurei>29.91</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.3</precip_totalm>
+						<precip_totali>0.01</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>11:37 PM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>23</hour>
+						<min>37</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>7:37 AM GMT on January 02, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>02</mday>
+						<hour>07</hour>
+						<min>37</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>7.1</tempm>
+						<tempi>44.7</tempi>
+					
+						<dewptm>5.6</dewptm>
+						<dewpti>42.0</dewpti>
+					<hum>89</hum>
+					
+						<wspdm>0.0</wspdm>
+						<wspdi>0.0</wspdi>
+					
+						<wgustm>1.6</wgustm>
+						<wgusti>1.0</wgusti>
+					<wdird>212</wdird>
+					<wdire>SSW</wdire>
+					
+						<pressurem>1012.4</pressurem>
+						<pressurei>29.90</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.3</precip_totalm>
+						<precip_totali>0.01</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+				<observation> 
+					<date>
+						<pretty>11:52 PM PST on January 01, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>01</mday>
+						<hour>23</hour>
+						<min>52</min>
+						<tzname></tzname>
+					</date>
+					<utcdate>
+						<pretty>7:52 AM GMT on January 02, 2017</pretty>
+						<year>2017</year>
+						<mon>01</mon>
+						<mday>02</mday>
+						<hour>07</hour>
+						<min>52</min>
+						<tzname>UTC</tzname>
+					</utcdate>
+					
+						<tempm>7.2</tempm>
+						<tempi>45.0</tempi>
+					
+						<dewptm>5.6</dewptm>
+						<dewpti>42.0</dewpti>
+					<hum>88</hum>
+					
+						<wspdm>0.0</wspdm>
+						<wspdi>0.0</wspdi>
+					
+						<wgustm>4.8</wgustm>
+						<wgusti>3.0</wgusti>
+					<wdird>225</wdird>
+					<wdire>SW</wdire>
+					
+						<pressurem>1012.4</pressurem>
+						<pressurei>29.90</pressurei>
+					
+						<windchillm>-999</windchillm>
+						<windchilli>-999</windchilli>
+					
+						<heatindexm>-9999</heatindexm>
+						<heatindexi>-9999</heatindexi>
+					
+						<precip_ratem>0.0</precip_ratem>
+						<precip_ratei>0.00</precip_ratei>
+					
+						<precip_totalm>0.3</precip_totalm>
+						<precip_totali>0.01</precip_totali>
+					<solarradiation></solarradiation>
+					<UV></UV>
+					<softwaretype>weatherlink.com 1.10</softwaretype>
+					
+				</observation>
+			
+		</observations>
+		<dailysummary>
+			
+				<summary>
+					<date>
+						<pretty></pretty>
+						<year></year>
+						<mon></mon>
+						<mday></mday>
+						<hour></hour>
+						<min></min>
+						<tzname></tzname>
+					</date>
+					
+				</summary>
+			
+				<summary>
+					<date>
+						<pretty></pretty>
+						<year></year>
+						<mon></mon>
+						<mday></mday>
+						<hour></hour>
+						<min></min>
+						<tzname></tzname>
+					</date>
+					
+				</summary>
+			
+				<summary>
+					<date>
+						<pretty></pretty>
+						<year></year>
+						<mon></mon>
+						<mday></mday>
+						<hour></hour>
+						<min></min>
+						<tzname></tzname>
+					</date>
+					
+				</summary>
+			
+				<summary>
+					<date>
+						<pretty></pretty>
+						<year></year>
+						<mon></mon>
+						<mday></mday>
+						<hour></hour>
+						<min></min>
+						<tzname></tzname>
+					</date>
+					
+				</summary>
+			
+				<summary>
+					<date>
+						<pretty></pretty>
+						<year></year>
+						<mon></mon>
+						<mday></mday>
+						<hour></hour>
+						<min></min>
+						<tzname></tzname>
+					</date>
+					
+				</summary>
+			
+				<summary>
+					<date>
+						<pretty></pretty>
+						<year></year>
+						<mon></mon>
+						<mday></mday>
+						<hour></hour>
+						<min></min>
+						<tzname></tzname>
+					</date>
+					
+				</summary>
+			
+				<summary>
+					<date>
+						<pretty></pretty>
+						<year></year>
+						<mon></mon>
+						<mday></mday>
+						<hour></hour>
+						<min></min>
+						<tzname></tzname>
+					</date>
+					
+				</summary>
+			
+				<summary>
+					<date>
+						<pretty></pretty>
+						<year></year>
+						<mon></mon>
+						<mday></mday>
+						<hour></hour>
+						<min></min>
+						<tzname></tzname>
+					</date>
+					
+				</summary>
+			
+				<summary>
+					<date>
+						<pretty></pretty>
+						<year></year>
+						<mon></mon>
+						<mday></mday>
+						<hour></hour>
+						<min></min>
+						<tzname></tzname>
+					</date>
+					
+				</summary>
+			
+				<summary>
+					<date>
+						<pretty></pretty>
+						<year></year>
+						<mon></mon>
+						<mday></mday>
+						<hour></hour>
+						<min></min>
+						<tzname></tzname>
+					</date>
+					
+				</summary>
+			
+				<summary>
+					<date>
+						<pretty></pretty>
+						<year></year>
+						<mon></mon>
+						<mday></mday>
+						<hour></hour>
+						<min></min>
+						<tzname></tzname>
+					</date>
+					
+				</summary>
+			
+				<summary>
+					<date>
+						<pretty></pretty>
+						<year></year>
+						<mon></mon>
+						<mday></mday>
+						<hour></hour>
+						<min></min>
+						<tzname></tzname>
+					</date>
+					
+				</summary>
+			
+				<summary>
+					<date>
+						<pretty></pretty>
+						<year></year>
+						<mon></mon>
+						<mday></mday>
+						<hour></hour>
+						<min></min>
+						<tzname></tzname>
+					</date>
+					
+				</summary>
+			
+				<summary>
+					<date>
+						<pretty></pretty>
+						<year></year>
+						<mon></mon>
+						<mday></mday>
+						<hour></hour>
+						<min></min>
+						<tzname></tzname>
+					</date>
+					
+				</summary>
+			
+				<summary>
+					<date>
+						<pretty></pretty>
+						<year></year>
+						<mon></mon>
+						<mday></mday>
+						<hour></hour>
+						<min></min>
+						<tzname></tzname>
+					</date>
+					
+				</summary>
+			
+				<summary>
+					<date>
+						<pretty></pretty>
+						<year></year>
+						<mon></mon>
+						<mday></mday>
+						<hour></hour>
+						<min></min>
+						<tzname></tzname>
+					</date>
+					
+				</summary>
+			
+				<summary>
+					<date>
+						<pretty></pretty>
+						<year></year>
+						<mon></mon>
+						<mday></mday>
+						<hour></hour>
+						<min></min>
+						<tzname></tzname>
+					</date>
+					
+				</summary>
+			
+				<summary>
+					<date>
+						<pretty></pretty>
+						<year></year>
+						<mon></mon>
+						<mday></mday>
+						<hour></hour>
+						<min></min>
+						<tzname></tzname>
+					</date>
+					
+				</summary>
+			
+				<summary>
+					<date>
+						<pretty></pretty>
+						<year></year>
+						<mon></mon>
+						<mday></mday>
+						<hour></hour>
+						<min></min>
+						<tzname></tzname>
+					</date>
+					
+				</summary>
+			
+				<summary>
+					<date>
+						<pretty></pretty>
+						<year></year>
+						<mon></mon>
+						<mday></mday>
+						<hour></hour>
+						<min></min>
+						<tzname></tzname>
+					</date>
+					
+				</summary>
+			
+				<summary>
+					<date>
+						<pretty></pretty>
+						<year></year>
+						<mon></mon>
+						<mday></mday>
+						<hour></hour>
+						<min></min>
+						<tzname></tzname>
+					</date>
+					
+				</summary>
+			
+		</dailysummary>
+	</history>
+
+        
+	
+	
+	
+	
+    
+    
+
+
+    
+    
+    
+    
+</response>
+	

@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+<meta name="date" content="2017-03-21" />
+
+<title>Summary - rpwsdata package</title>
+
+
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+div.sourceCode { overflow-x: auto; }
+table.sourceCode, tr.sourceCode, td.lineNumbers, td.sourceCode {
+  margin: 0; padding: 0; vertical-align: baseline; border: none; }
+table.sourceCode { width: 100%; line-height: 100%; }
+td.lineNumbers { text-align: right; padding-right: 4px; padding-left: 4px; color: #aaaaaa; border-right: 1px solid #aaaaaa; }
+td.sourceCode { padding-left: 5px; }
+code > span.kw { color: #007020; font-weight: bold; } /* Keyword */
+code > span.dt { color: #902000; } /* DataType */
+code > span.dv { color: #40a070; } /* DecVal */
+code > span.bn { color: #40a070; } /* BaseN */
+code > span.fl { color: #40a070; } /* Float */
+code > span.ch { color: #4070a0; } /* Char */
+code > span.st { color: #4070a0; } /* String */
+code > span.co { color: #60a0b0; font-style: italic; } /* Comment */
+code > span.ot { color: #007020; } /* Other */
+code > span.al { color: #ff0000; font-weight: bold; } /* Alert */
+code > span.fu { color: #06287e; } /* Function */
+code > span.er { color: #ff0000; font-weight: bold; } /* Error */
+code > span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
+code > span.cn { color: #880000; } /* Constant */
+code > span.sc { color: #4070a0; } /* SpecialChar */
+code > span.vs { color: #4070a0; } /* VerbatimString */
+code > span.ss { color: #bb6688; } /* SpecialString */
+code > span.im { } /* Import */
+code > span.va { color: #19177c; } /* Variable */
+code > span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
+code > span.op { color: #666666; } /* Operator */
+code > span.bu { } /* BuiltIn */
+code > span.ex { } /* Extension */
+code > span.pp { color: #bc7a00; } /* Preprocessor */
+code > span.at { color: #7d9029; } /* Attribute */
+code > span.do { color: #ba2121; font-style: italic; } /* Documentation */
+code > span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
+code > span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
+code > span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
+</style>
+
+
+
+<link href="data:text/css;charset=utf-8,body%20%7B%0Abackground%2Dcolor%3A%20%23fff%3B%0Amargin%3A%201em%20auto%3B%0Amax%2Dwidth%3A%20700px%3B%0Aoverflow%3A%20visible%3B%0Apadding%2Dleft%3A%202em%3B%0Apadding%2Dright%3A%202em%3B%0Afont%2Dfamily%3A%20%22Open%20Sans%22%2C%20%22Helvetica%20Neue%22%2C%20Helvetica%2C%20Arial%2C%20sans%2Dserif%3B%0Afont%2Dsize%3A%2014px%3B%0Aline%2Dheight%3A%201%2E35%3B%0A%7D%0A%23header%20%7B%0Atext%2Dalign%3A%20center%3B%0A%7D%0A%23TOC%20%7B%0Aclear%3A%20both%3B%0Amargin%3A%200%200%2010px%2010px%3B%0Apadding%3A%204px%3B%0Awidth%3A%20400px%3B%0Aborder%3A%201px%20solid%20%23CCCCCC%3B%0Aborder%2Dradius%3A%205px%3B%0Abackground%2Dcolor%3A%20%23f6f6f6%3B%0Afont%2Dsize%3A%2013px%3B%0Aline%2Dheight%3A%201%2E3%3B%0A%7D%0A%23TOC%20%2Etoctitle%20%7B%0Afont%2Dweight%3A%20bold%3B%0Afont%2Dsize%3A%2015px%3B%0Amargin%2Dleft%3A%205px%3B%0A%7D%0A%23TOC%20ul%20%7B%0Apadding%2Dleft%3A%2040px%3B%0Amargin%2Dleft%3A%20%2D1%2E5em%3B%0Amargin%2Dtop%3A%205px%3B%0Amargin%2Dbottom%3A%205px%3B%0A%7D%0A%23TOC%20ul%20ul%20%7B%0Amargin%2Dleft%3A%20%2D2em%3B%0A%7D%0A%23TOC%20li%20%7B%0Aline%2Dheight%3A%2016px%3B%0A%7D%0Atable%20%7B%0Amargin%3A%201em%20auto%3B%0Aborder%2Dwidth%3A%201px%3B%0Aborder%2Dcolor%3A%20%23DDDDDD%3B%0Aborder%2Dstyle%3A%20outset%3B%0Aborder%2Dcollapse%3A%20collapse%3B%0A%7D%0Atable%20th%20%7B%0Aborder%2Dwidth%3A%202px%3B%0Apadding%3A%205px%3B%0Aborder%2Dstyle%3A%20inset%3B%0A%7D%0Atable%20td%20%7B%0Aborder%2Dwidth%3A%201px%3B%0Aborder%2Dstyle%3A%20inset%3B%0Aline%2Dheight%3A%2018px%3B%0Apadding%3A%205px%205px%3B%0A%7D%0Atable%2C%20table%20th%2C%20table%20td%20%7B%0Aborder%2Dleft%2Dstyle%3A%20none%3B%0Aborder%2Dright%2Dstyle%3A%20none%3B%0A%7D%0Atable%20thead%2C%20table%20tr%2Eeven%20%7B%0Abackground%2Dcolor%3A%20%23f7f7f7%3B%0A%7D%0Ap%20%7B%0Amargin%3A%200%2E5em%200%3B%0A%7D%0Ablockquote%20%7B%0Abackground%2Dcolor%3A%20%23f6f6f6%3B%0Apadding%3A%200%2E25em%200%2E75em%3B%0A%7D%0Ahr%20%7B%0Aborder%2Dstyle%3A%20solid%3B%0Aborder%3A%20none%3B%0Aborder%2Dtop%3A%201px%20solid%20%23777%3B%0Amargin%3A%2028px%200%3B%0A%7D%0Adl%20%7B%0Amargin%2Dleft%3A%200%3B%0A%7D%0Adl%20dd%20%7B%0Amargin%2Dbottom%3A%2013px%3B%0Amargin%2Dleft%3A%2013px%3B%0A%7D%0Adl%20dt%20%7B%0Afont%2Dweight%3A%20bold%3B%0A%7D%0Aul%20%7B%0Amargin%2Dtop%3A%200%3B%0A%7D%0Aul%20li%20%7B%0Alist%2Dstyle%3A%20circle%20outside%3B%0A%7D%0Aul%20ul%20%7B%0Amargin%2Dbottom%3A%200%3B%0A%7D%0Apre%2C%20code%20%7B%0Abackground%2Dcolor%3A%20%23f7f7f7%3B%0Aborder%2Dradius%3A%203px%3B%0Acolor%3A%20%23333%3B%0Awhite%2Dspace%3A%20pre%2Dwrap%3B%20%0A%7D%0Apre%20%7B%0Aborder%2Dradius%3A%203px%3B%0Amargin%3A%205px%200px%2010px%200px%3B%0Apadding%3A%2010px%3B%0A%7D%0Apre%3Anot%28%5Bclass%5D%29%20%7B%0Abackground%2Dcolor%3A%20%23f7f7f7%3B%0A%7D%0Acode%20%7B%0Afont%2Dfamily%3A%20Consolas%2C%20Monaco%2C%20%27Courier%20New%27%2C%20monospace%3B%0Afont%2Dsize%3A%2085%25%3B%0A%7D%0Ap%20%3E%20code%2C%20li%20%3E%20code%20%7B%0Apadding%3A%202px%200px%3B%0A%7D%0Adiv%2Efigure%20%7B%0Atext%2Dalign%3A%20center%3B%0A%7D%0Aimg%20%7B%0Abackground%2Dcolor%3A%20%23FFFFFF%3B%0Apadding%3A%202px%3B%0Aborder%3A%201px%20solid%20%23DDDDDD%3B%0Aborder%2Dradius%3A%203px%3B%0Aborder%3A%201px%20solid%20%23CCCCCC%3B%0Amargin%3A%200%205px%3B%0A%7D%0Ah1%20%7B%0Amargin%2Dtop%3A%200%3B%0Afont%2Dsize%3A%2035px%3B%0Aline%2Dheight%3A%2040px%3B%0A%7D%0Ah2%20%7B%0Aborder%2Dbottom%3A%204px%20solid%20%23f7f7f7%3B%0Apadding%2Dtop%3A%2010px%3B%0Apadding%2Dbottom%3A%202px%3B%0Afont%2Dsize%3A%20145%25%3B%0A%7D%0Ah3%20%7B%0Aborder%2Dbottom%3A%202px%20solid%20%23f7f7f7%3B%0Apadding%2Dtop%3A%2010px%3B%0Afont%2Dsize%3A%20120%25%3B%0A%7D%0Ah4%20%7B%0Aborder%2Dbottom%3A%201px%20solid%20%23f7f7f7%3B%0Amargin%2Dleft%3A%208px%3B%0Afont%2Dsize%3A%20105%25%3B%0A%7D%0Ah5%2C%20h6%20%7B%0Aborder%2Dbottom%3A%201px%20solid%20%23ccc%3B%0Afont%2Dsize%3A%20105%25%3B%0A%7D%0Aa%20%7B%0Acolor%3A%20%230033dd%3B%0Atext%2Ddecoration%3A%20none%3B%0A%7D%0Aa%3Ahover%20%7B%0Acolor%3A%20%236666ff%3B%20%7D%0Aa%3Avisited%20%7B%0Acolor%3A%20%23800080%3B%20%7D%0Aa%3Avisited%3Ahover%20%7B%0Acolor%3A%20%23BB00BB%3B%20%7D%0Aa%5Bhref%5E%3D%22http%3A%22%5D%20%7B%0Atext%2Ddecoration%3A%20underline%3B%20%7D%0Aa%5Bhref%5E%3D%22https%3A%22%5D%20%7B%0Atext%2Ddecoration%3A%20underline%3B%20%7D%0A%0Acode%20%3E%20span%2Ekw%20%7B%20color%3A%20%23555%3B%20font%2Dweight%3A%20bold%3B%20%7D%20%0Acode%20%3E%20span%2Edt%20%7B%20color%3A%20%23902000%3B%20%7D%20%0Acode%20%3E%20span%2Edv%20%7B%20color%3A%20%2340a070%3B%20%7D%20%0Acode%20%3E%20span%2Ebn%20%7B%20color%3A%20%23d14%3B%20%7D%20%0Acode%20%3E%20span%2Efl%20%7B%20color%3A%20%23d14%3B%20%7D%20%0Acode%20%3E%20span%2Ech%20%7B%20color%3A%20%23d14%3B%20%7D%20%0Acode%20%3E%20span%2Est%20%7B%20color%3A%20%23d14%3B%20%7D%20%0Acode%20%3E%20span%2Eco%20%7B%20color%3A%20%23888888%3B%20font%2Dstyle%3A%20italic%3B%20%7D%20%0Acode%20%3E%20span%2Eot%20%7B%20color%3A%20%23007020%3B%20%7D%20%0Acode%20%3E%20span%2Eal%20%7B%20color%3A%20%23ff0000%3B%20font%2Dweight%3A%20bold%3B%20%7D%20%0Acode%20%3E%20span%2Efu%20%7B%20color%3A%20%23900%3B%20font%2Dweight%3A%20bold%3B%20%7D%20%20code%20%3E%20span%2Eer%20%7B%20color%3A%20%23a61717%3B%20background%2Dcolor%3A%20%23e3d2d2%3B%20%7D%20%0A" rel="stylesheet" type="text/css" />
+
+</head>
+
+<body>
+
+
+
+
+<h1 class="title toc-ignore">Summary - rpwsdata package</h1>
+<h4 class="date"><em>2017-03-21</em></h4>
+
+
+
+<p>The rpwsdata package enables users to query the Wunderground project database from R and provide tools to visualize weather conditions for a place of choice.</p>
+<ul>
+<li><p>rpwsdata package provides functions to get available Personal Weather Stations(PWS) for any given place.</p></li>
+<li><p>rpwsdata package includes functions to access and download the current and historical weather of any place from each of the available PWS within the place.</p></li>
+<li><p>rpwsdata package returns current conditions data and historical data in data frames that can be used for further analysis</p></li>
+<li><p>rpwsdata package also includes interactive graphical interface to visualize the available PWS of a specified place and microclimate patterns of a place across the available PWS.</p></li>
+</ul>
+<p>This document introduces you to rpwsdata functions and shows how to apply them to get weather data of a place:</p>
+<div id="create-an-object-of-wground-class" class="section level2">
+<h2>Create an object of WGround class</h2>
+<p>To access the weather data of a place from Wunderground project database, the package comes with a pre-defined ‘WGround’ class. All the functions provided by rpwsdata package work only on object of ‘WGround’ class.It is essential for the user to create an object of ‘WGround’ to use any of the package functionality. An API key is required to query Wunderground, it can be obtained at <a href="https://www.wunderground.com/weather/api/d/pricing.html" class="uri">https://www.wunderground.com/weather/api/d/pricing.html</a>. Free Developer is available with restrictions on number of API calls.</p>
+<p><code>new()</code> allows you to create a new ‘WGround’ object:</p>
+<p>For example, to create object to get PWS for San Francisco, CA.</p>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="co">#library(rpwsdata)</span>
+obj &lt;-<span class="st"> </span><span class="kw">new</span>(<span class="st">&quot;WGround&quot;</span>, <span class="dt">APIkey=</span>APIkey, <span class="dt">city=</span><span class="st">&quot;San Francisco&quot;</span>,<span class="dt">state=</span> <span class="st">&quot;CA&quot;</span>,<span class="dt">country=</span><span class="st">&quot;USA&quot;</span>)
+obj &lt;-<span class="st"> </span><span class="kw">new</span>(<span class="st">&quot;WGround&quot;</span>, <span class="dt">APIkey=</span>APIkey, <span class="dt">city=</span><span class="st">&quot;San Francisco&quot;</span>,<span class="dt">state=</span> <span class="st">&quot;CA&quot;</span>)</code></pre></div>
+<p>The object <code>obj</code> created above will be used for the remainder of this vignette to demonstrate other functionalities of rpwsdata</p>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">obj &lt;-<span class="st"> </span><span class="kw">new</span>(<span class="st">&quot;WGround&quot;</span>, <span class="dt">APIkey=</span>APIkey, <span class="dt">city=</span><span class="st">&quot;San Francisco&quot;</span>)
+<span class="co">#Error in validObject(.Object) : </span>
+<span class="co">#  invalid class &quot;WGround&quot; object: Location information provided not complete. State or Country needed for entered city.</span>
+
+obj &lt;-<span class="st"> </span><span class="kw">new</span>(<span class="st">&quot;WGround&quot;</span>, <span class="dt">APIkey=</span>APIkey, <span class="dt">city=</span><span class="st">&quot;San Francisco&quot;</span>, <span class="dt">country=</span><span class="st">&quot;US&quot;</span>)
+<span class="co">#Error in validObject(.Object) : </span>
+<span class="co">#  invalid class &quot;WGround&quot; object: For US cities enter state information.</span></code></pre></div>
+<p>For cities inside US, ‘country’ is optional but ‘state’ must be provided. However for international cities, ‘country’ must be provided</p>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">obj &lt;-<span class="st"> </span><span class="kw">new</span>(<span class="st">&quot;WGround&quot;</span>, <span class="dt">APIkey=</span>APIkey, <span class="dt">city=</span><span class="st">&quot;Paris&quot;</span>,<span class="dt">country=</span><span class="st">&quot;France&quot;</span>)</code></pre></div>
+</div>
+<div id="obtain-pws-for-a-given-place" class="section level2">
+<h2>Obtain PWS for a given place</h2>
+<p><code>getPWSinfo()</code> allows you to get all the available Personal Weather stations (PWS).</p>
+<p>For example:</p>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">obj &lt;-<span class="st"> </span><span class="kw">getPWSinfo</span>(obj)</code></pre></div>
+<p>This will obtain the PWS information from WunderGround web API and populates the <code>pws</code> slot of the Wground object. <code>verbose</code> is optional argument to the function and it controls the printing of notes to the console. By default, verbose is on. Setting <code>verbose = F</code> will turnoff any printing to console until occurence of a run time error.</p>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">obj &lt;-<span class="st"> </span><span class="kw">getPWSinfo</span>(obj, <span class="dt">verbose =</span> F, <span class="dt">distance_mi =</span> <span class="fl">0.5</span>, <span class="dt">maxPWScount =</span> <span class="dv">3</span>)</code></pre></div>
+<p>The user can get only PWS within requested distance in miles of city (entered while creating the WGround object) using <code>distance_mi</code> argument. This is optional and if not provided the getPWSinfo() will return all the availabe PWS for the requested city. <code>maxPWScount</code> argument will limit PWS returned for the requested city.This is optional and returns all the available PWS if not provided in the function call.</p>
+</div>
+<div id="obtain-current-weather-from-pws-stations." class="section level2">
+<h2>Obtain current weather from PWS stations.</h2>
+<p><code>CurrentWeatherbyPWS()</code> enables users to access the latest weather information from each of the PWS sites contained in <code>pws</code> slot of the WGround object. By default,The weather charateristics like ‘weather’, ‘temp_f’,‘relative_humidity’, ‘wind_mph’, ‘pressure_in’, ‘windchill_f’, ‘feelslike_f’, ‘visibility_mi’ and ‘precip_today_in’ can be accessed for each of the PWS. This function returns’WGround’ Object with <code>conditions</code> slot populated.</p>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">obj &lt;-<span class="st"> </span><span class="kw">CurrentWeatherbyPWS</span>(obj)
+obj1 &lt;-<span class="st"> </span><span class="kw">CurrentWeatherbyPWS</span>(obj, <span class="dt">verbose =</span> F)</code></pre></div>
+<p>some possible wrong uses of the <code>CurrentWeatherbyPWS()</code> function.</p>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">obj1 &lt;-<span class="st"> </span><span class="kw">new</span>(<span class="st">&quot;WGround&quot;</span>, <span class="dt">APIkey=</span>APIkey, <span class="dt">city=</span><span class="st">&quot;Denver&quot;</span>, <span class="dt">state=</span><span class="st">&quot;CO&quot;</span>)
+obj1 &lt;-<span class="st"> </span><span class="kw">CurrentWeatherbyPWS</span>(obj1)
+<span class="co">#Error in CurrentWeatherbyPWS(obj) : ERROR.PWS info not provided </span></code></pre></div>
+<p>The above error can be avoided by using the function in the right sequence as shown below.</p>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">obj1 &lt;-<span class="st"> </span><span class="kw">new</span>(<span class="st">&quot;WGround&quot;</span>, <span class="dt">APIkey=</span>APIkey, <span class="dt">city=</span><span class="st">&quot;Denver&quot;</span>, <span class="dt">state=</span><span class="st">&quot;CO&quot;</span>)
+obj1 &lt;-<span class="st"> </span><span class="kw">getPWSinfo</span>(obj1)
+obj1 &lt;-<span class="st"> </span><span class="kw">CurrentWeatherbyPWS</span>(obj1)</code></pre></div>
+</div>
+<div id="obtain-historical-weather-data-of-an-entered-city" class="section level2">
+<h2>Obtain Historical weather data of an entered city</h2>
+<p><code>getHistoricalWeather()</code> fetches the historical weather between specified <code>startDt</code> and <code>endDt</code> (entered as yyyy/mm/dd format) for selected weather stations of the city contained in ‘WGround’ object provided as the main argument.The function returns a data frame with historical weather information.The argument <code>maxPWScount</code> limits the PWS sites and data is pulled only for required number of PWS sites.By default <code>maxPWScount</code> is set to 3 to limit the number of API calls to the wunder ground web API. Recently, Wunder ground imposed strict restrictions on the number of API calls and is important to use <code>maxPWScount=3</code> or less to prevent any future access issues. API calls more than 10 per minute results in blockage of the Developer API key.</p>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">## startDt and endDt in yyyy/mm/dd format
+weather_hist &lt;-<span class="st"> </span><span class="kw">getHistoricalWeather</span>(obj,<span class="dt">startDt=</span><span class="st">&quot;2017/01/01&quot;</span>,<span class="dt">endDt=</span><span class="st">&quot;2017/01/02&quot;</span>,<span class="dt">maxPWScount=</span><span class="dv">1</span>)</code></pre></div>
+<p>some possible wrong uses of the <code>CurrentWeatherbyPWS()</code> function.</p>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">obj1 &lt;-<span class="st"> </span><span class="kw">new</span>(<span class="st">&quot;WGround&quot;</span>, <span class="dt">APIkey=</span>APIkey, <span class="dt">city=</span><span class="st">&quot;Denver&quot;</span>, <span class="dt">state=</span><span class="st">&quot;CO&quot;</span>)
+obj1 &lt;-<span class="st"> </span><span class="kw">getHistoricalWeather</span>(obj1,<span class="dt">startDt=</span><span class="st">&quot;2017/01/01&quot;</span>,<span class="dt">endDt=</span><span class="st">&quot;2017/01/02&quot;</span>,<span class="dt">maxPWScount=</span><span class="dv">1</span>,<span class="dt">verbose=</span>F)
+<span class="co">#Error in getHistoricalWeather(obj1, startDt = &quot;2017/01/01&quot;, endDt = &quot;2017/02/01&quot;,  : </span>
+<span class="co">#  ERROR.PWS info not provided  </span></code></pre></div>
+<p>The above error can be avoided by using the function in correct sequence as shown below.</p>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">obj1 &lt;-<span class="st"> </span><span class="kw">new</span>(<span class="st">&quot;WGround&quot;</span>, <span class="dt">APIkey=</span>APIkey, <span class="dt">city=</span><span class="st">&quot;Denver&quot;</span>, <span class="dt">state=</span><span class="st">&quot;CO&quot;</span>)
+obj1 &lt;-<span class="st"> </span><span class="kw">getPWSinfo</span>(obj1)
+obj1 &lt;-<span class="st"> </span><span class="kw">getHistoricalWeather</span>(obj1,<span class="dt">startDt=</span><span class="st">&quot;2017/01/01&quot;</span>,<span class="dt">endDt=</span><span class="st">&quot;2017/01/02&quot;</span>,<span class="dt">verbose=</span>F)</code></pre></div>
+</div>
+<div id="package-in-offline-mode" class="section level2">
+<h2>Package in offline mode</h2>
+<p>The WGround based object can also be created in offline mode by passing the runmode parameter as offline. This mode is useful for learning about the package and running example. The user interface details are in next section.</p>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">library</span>(rpwsdata)
+obj &lt;-<span class="st"> </span><span class="kw">new</span>(<span class="st">&quot;WGround&quot;</span>, <span class="dt">city=</span><span class="st">&quot;Fremont&quot;</span>,<span class="dt">state=</span> <span class="st">&quot;CA&quot;</span>, <span class="dt">runmode=</span><span class="st">&quot;offline&quot;</span>)
+obj &lt;-<span class="st"> </span><span class="kw">getPWSinfo</span>(obj,<span class="dt">distance_mi =</span> <span class="dv">10</span>,<span class="dt">maxPWScount =</span> <span class="dv">3</span>)</code></pre></div>
+<pre><code>## Accessing the PWS data locally : 
+## 
+##  30  PWS Stations obtained for the requested location !
+## 
+## Including only PWS Stations within  10  miles of requested location.
+## 
+## Including only  3  PWS Stations for the requested location. 
+##           id      neighborhood    city state country      lat       lon
+## 1 KCAFREMO83        GeekDad HQ Fremont    CA      US 37.55716 -121.9983
+## 2 KCAFREMO88 Centerville-Nunes Fremont    CA      US 37.56235 -121.9896
+## 3 KCAFREMO84       Centerville Fremont    CA      US 37.55161 -122.0097
+##   distance_mi
+## 1           0
+## 2           0
+## 3           0</code></pre>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">obj@selectedpws &lt;-<span class="st"> </span>obj@pws[obj@pws$id ==<span class="st"> 'KCAFREMO83'</span>|obj@pws$id ==<span class="st"> 'KCAFREMO88'</span>,]
+obj &lt;-<span class="st"> </span><span class="kw">CurrentWeatherbyPWS</span>(obj)</code></pre></div>
+<pre><code>## 
+## Accessing Local JSON files 
+##  
+## Accessing Local JSON files 
+##  
+## 
+##   station_id weather temp_f relative_humidity wind_mph pressure_in
+## 1 KCAFREMO83   Clear   57.1               76%        0       29.97
+## 2 KCAFREMO88   Clear   56.8               68%        0       29.97
+##   windchill_f feelslike_f visibility_mi precip_today_in
+## 1          NA        57.1          10.0            0.00
+## 2          NA        56.8          10.0            0.00</code></pre>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">Whistory &lt;-<span class="st"> </span><span class="kw">getHistoricalWeather</span>(obj,<span class="dt">startDt=</span><span class="st">&quot;2017/01/01&quot;</span>,<span class="dt">endDt=</span><span class="st">&quot;2017/01/01&quot;</span>,<span class="dt">maxPWScount =</span> <span class="dv">2</span>)</code></pre></div>
+<pre><code>## 
+## Accessing the Weather for date :  2017-01-01
+## Accessing the weather data locally : 
+## 
+## Data Pull from url : SUCCESSFUL
+## 
+## Accessing the weather data locally : 
+## 
+## Data Pull from url : SUCCESSFUL
+##       Date         time         ID tempm tempi dewptm dewpti hum pressurem
+## 1 20170101 12:06 AM PST KCAFREMO83    21     1      2      2  29         7
+## 2 20170101 12:21 AM PST KCAFREMO83    22     2      2      2  29         7
+## 3 20170101 12:36 AM PST KCAFREMO83    23     3      3      3  29         6
+## 4 20170101 12:51 AM PST KCAFREMO83    24     4      3      3  27         6
+## 5 20170101 1:06 AM PST  KCAFREMO83    25     5      3      3  25         6
+## 6 20170101 1:21 AM PST  KCAFREMO83    26     6      3      3  25         7
+##   pressurei
+## 1         7
+## 2         7
+## 3         6
+## 4         6
+## 5         6
+## 6         7</code></pre>
+</div>
+<div id="interactive-user-interface" class="section level2">
+<h2>Interactive user interface</h2>
+<p>rpwsdata package comes with a Shiny based user interface. Shiny app can be called using function runShiny()</p>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">runShiny</span>()</code></pre></div>
+<p>There is an offline version of Shiny app as well and can be called using runShinyoffline()</p>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">runShinyoffline</span>()</code></pre></div>
+</div>
+<div id="api-key" class="section level2">
+<h2>API Key</h2>
+<p>API key “71b9f1f144bb1e8c” can be used for evaluating only the package</p>
+</div>
+
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

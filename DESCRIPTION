@@ -1,0 +1,31 @@
+Package: rpwsdata
+Title: Visualize and Analyze Weather Conditions from Wunderground Database
+Version: 1.0
+Authors@R: c(person("Atul", "Lal", email = "atulblal@stanford.edu", role = c("aut", "cre")),
+    person("Siddhartha", "Jetti", email = "siddhujetty@gmail.com", role = "aut"))
+Description: An implementation of s4 class to get available Personal
+    Weather Stations(PWS) for any given place
+    It includes functions to access and download the current and historical
+    weather of any place from each of the available PWS within the place
+    rpwsdata package returns current conditions data and historical data in
+    data frames that can be used for further analysis
+    rpwsdata package also includes interactive graphical interface to visualize
+    the available PWS of a specified place and microclimate patterns of a place
+    across the available PWS.
+Depends: R (>= 3.3.2)
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+Imports: magrittr,
+    methods,
+    XML,
+    xml2,
+    jsonlite,
+    shiny,
+    ggplot2,
+    leaflet
+Suggests: testthat,
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
+RoxygenNote: 6.0.0
